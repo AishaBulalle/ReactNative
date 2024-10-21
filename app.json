@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "69c36b5b-9001-430b-a873-da6db34fedcb"
+      }
+    },
+    "owner": "aishabulalle"
   }
 }
